@@ -1,0 +1,181 @@
+{
+	"$NodeId":	"Constant.Assignments-f84320b6-3fb9-41be-997d-610b91deb8c2",
+	"Type":	"Constant",
+	"ExportAs":	"PlasticBiome3_Plut_GnarlTrees",
+	"Prop":	{
+		"$NodeId":	"Prefab.Prop-9e9808af-4531-4ebc-87cd-07f50db39c22",
+		"Type":	"Prefab",
+		"Skip":	false,
+		"WeightedPrefabPaths":	[{
+				"$NodeId":	"WeightedPath.Prefab.Prop-e1d8906a-1307-46f7-b7d6-d5580c009635",
+				"Path":	"Plut_GnarlTrees/Stage_001/",
+				"Weight":	40
+			}, {
+				"$NodeId":	"WeightedPath.Prefab.Prop-bd9cf30e-896c-4513-bce2-ad654168db61",
+				"Path":	"Plut_GnarlTrees/Stage_002/",
+				"Weight":	55
+			}, {
+				"$NodeId":	"WeightedPath.Prefab.Prop-562d44e8-3b37-4b4b-8f89-de37d8d95e01",
+				"Path":	"Plut_GnarlTrees/Stage_003/",
+				"Weight":	5
+			}],
+		"LegacyPath":	false,
+		"LoadEntities":	true,
+		"Directionality":	{
+			"$NodeId":	"Static.Directionality-96f7b5ab-7149-45fe-a72f-a214a6fa9db8",
+			"Type":	"Static",
+			"Rotation":	0,
+			"Pattern":	{
+				"$NodeId":	"Floor.Pattern-a4a3d7a0-5ac1-41c5-8cad-10e3f6aa0e5f",
+				"Type":	"Floor",
+				"Skip":	false,
+				"Origin":	{
+					"$NodeId":	"BlockType.Pattern-98855591-ab6c-4f73-aa8a-b866ad577745",
+					"Type":	"BlockType",
+					"Skip":	false,
+					"Material":	{
+						"$NodeId":	"Material-8cb7e22e-3ab3-4bd3-9a26-aa39f1505f7d",
+						"Solid":	"",
+						"Fluid":	"Water_Source"
+					}
+				},
+				"Floor":	{
+					"$NodeId":	"BlockType.Pattern-e43b2520-302f-4db1-ace8-44d31316c8c3",
+					"Type":	"BlockType",
+					"Skip":	false,
+					"Material":	{
+						"$NodeId":	"Material-4987ceae-f741-4869-8ed5-ee33a1b762dc",
+						"Solid":	"Soil_Clay_Lime",
+						"Fluid":	""
+					}
+				}
+			}
+		},
+		"Scanner":	{
+			"$NodeId":	"ColumnLinear.Scanner-2790119c-76bf-4f32-9f5c-49f6cc80fe80",
+			"Type":	"ColumnLinear",
+			"Skip":	false,
+			"MaxY":	5,
+			"MinY":	-300,
+			"RelativeToPosition":	false,
+			"BaseHeightName":	"Base",
+			"TopDownOrder":	false,
+			"ResultCap":	1
+		},
+		"BlockMask":	{
+			"$NodeId":	"BlockMask-dcdc060b-63a6-4ccf-8b2d-443e36c3fb4e",
+			"DontReplace":	{
+				"$NodeId":	"BlockSet.BlockMask-66648800-7089-4ae8-837c-c24b01641c47",
+				"Inclusive":	true,
+				"Materials":	[{
+						"$NodeId":	"Material-b1b48643-f5f3-4eef-b008-6c7ed59bb3de",
+						"Solid":	"Soil_Clay_Lime"
+					}]
+			},
+			"Advanced":	[]
+		},
+		"MoldingDirection":	"NONE",
+		"MoldingChildren":	false
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.Assignments-f84320b6-3fb9-41be-997d-610b91deb8c2":	{
+				"$Position":	{
+					"$x":	-643,
+					"$y":	3871
+				},
+				"$Title":	"[ROOT] Constant Assignments"
+			},
+			"Prefab.Prop-9e9808af-4531-4ebc-87cd-07f50db39c22":	{
+				"$Position":	{
+					"$x":	226,
+					"$y":	3836
+				}
+			},
+			"WeightedPath.Prefab.Prop-e1d8906a-1307-46f7-b7d6-d5580c009635":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	3118
+				}
+			},
+			"WeightedPath.Prefab.Prop-bd9cf30e-896c-4513-bce2-ad654168db61":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	3339
+				}
+			},
+			"WeightedPath.Prefab.Prop-562d44e8-3b37-4b4b-8f89-de37d8d95e01":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	3560
+				}
+			},
+			"Static.Directionality-96f7b5ab-7149-45fe-a72f-a214a6fa9db8":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	3781
+				}
+			},
+			"Floor.Pattern-a4a3d7a0-5ac1-41c5-8cad-10e3f6aa0e5f":	{
+				"$Position":	{
+					"$x":	2502,
+					"$y":	3670
+				}
+			},
+			"BlockType.Pattern-98855591-ab6c-4f73-aa8a-b866ad577745":	{
+				"$Position":	{
+					"$x":	3395,
+					"$y":	3561
+				}
+			},
+			"Material-8cb7e22e-3ab3-4bd3-9a26-aa39f1505f7d":	{
+				"$Position":	{
+					"$x":	4322,
+					"$y":	3561
+				}
+			},
+			"BlockType.Pattern-e43b2520-302f-4db1-ace8-44d31316c8c3":	{
+				"$Position":	{
+					"$x":	3395,
+					"$y":	3782
+				}
+			},
+			"Material-4987ceae-f741-4869-8ed5-ee33a1b762dc":	{
+				"$Position":	{
+					"$x":	4322,
+					"$y":	3782
+				}
+			},
+			"ColumnLinear.Scanner-2790119c-76bf-4f32-9f5c-49f6cc80fe80":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	4222
+				}
+			},
+			"BlockMask-dcdc060b-63a6-4ccf-8b2d-443e36c3fb4e":	{
+				"$Position":	{
+					"$x":	1225,
+					"$y":	4671
+				}
+			},
+			"BlockSet.BlockMask-66648800-7089-4ae8-837c-c24b01641c47":	{
+				"$Position":	{
+					"$x":	2502,
+					"$y":	4692
+				}
+			},
+			"Material-b1b48643-f5f3-4eef-b008-6c7ed59bb3de":	{
+				"$Position":	{
+					"$x":	3395,
+					"$y":	4673
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}

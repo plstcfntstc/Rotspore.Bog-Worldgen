@@ -1,0 +1,10 @@
+items.PortalKey_RotSporeBog.name=Fragment: Portal Key: RotSpore Bog
+items.PortalKey_RotSporeBog.description=<msg key="server.items.PortalKey.description"/>\n\\n\A portal key that leads to the RotSpore Bog fagment instance.
+
+portals.PortalRotSporeBog_Basic.name=RotSporeBog Fragment
+portals.PortalRotSporeBog_Basic.description=This is a RotSporeBog Fragment, for a world where the toxins has slowly leaked into the atmosphere.\n\\n\
+<b>A PlasticFantastic glimpse.</b>
+
+portals.PortalRotSporeBog_Basic.tip1=<color is="#0a6d4c">The RotSpore bog is purely cosmetical.</color>
+portals.PortalRotSporeBog_Basic.tip2=<color is="#0a6d4c">It is designed as concept art, rather than gameplay ready.</color>
+portals.PortalRotSporeBog_Basic.tip3=<color is="#0a6d4c">Worldgen is loads of fun!</color>

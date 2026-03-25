@@ -1,0 +1,10 @@
+items.PortalKey_Template.name=Fragment: Portal Key: Template
+items.PortalKey_Template.description=<msg key="server.items.PortalKey.description"/>\n\\n\A template for a portal key that leads to the template fagment instance.
+
+portals.PortalTemplate_Basic.name=Template Fragment
+portals.PortalTemplate_Basic.description=This is a Template Fragment, change this text to whatever you want it to be.\n\\n\
+<b>a DarkWolf eXPerience.</b>
+
+portals.PortalTemplate_Basic.tip1=<color is="#05c09a">Templates are useful to help others.</color>
+portals.PortalTemplate_Basic.tip2=<color is="#05c09a">Tell everyone that DarkWolf is the best.</color>
+portals.PortalTemplate_Basic.tip3=<color is="#05c09a">Hytale rules!</color>

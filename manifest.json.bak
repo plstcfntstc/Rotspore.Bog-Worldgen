@@ -1,0 +1,15 @@
+{
+  "Group": "Plastic",
+  "Name": "Fantastic-Worldgen",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [],
+  "Website": "https://plstcfntstc.artstation.com/",
+  "ServerVersion": "2026.03.12-b1f856309",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

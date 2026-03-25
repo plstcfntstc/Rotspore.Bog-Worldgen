@@ -1,0 +1,6550 @@
+{
+  "version": 8,
+  "blockIdVersion": 10,
+  "anchorX": 0,
+  "anchorY": 2,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 0,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 1,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 2,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -1,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 0,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -1,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 1,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 2,
+      "name": "Empty"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 0,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 1,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 2,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Crystal_Green_Block"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 4,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 19,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Crimson"
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Orange"
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 3,
+      "name": "Rock_Acid_Trunk_Magenta"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 0,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Light"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "z": 1,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 2,
+      "name": "Rock_Acid_Trunk_Standard"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -3,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 19,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 11,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 12,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 13,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 14,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 15,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 16,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 17,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 18,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 1,
+      "name": "Poison_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 2,
+      "name": "Poison_Source",
+      "level": 1
+    },
+    {
+      "x": -1,
+      "y": 2,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 3,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 8,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 9,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 10,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 11,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 12,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 13,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 14,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 15,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 16,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 17,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 18,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 0,
+      "name": "Poison_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 1,
+      "name": "Poison_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 2,
+      "name": "Poison_Source",
+      "level": 1
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 15,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 16,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 17,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 18,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 19,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 15,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 16,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 17,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 18,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 19,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 16,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 17,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 18,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "InstanceId": "PortalTemplate_Basic",
+  "Description": {
+    "DisplayName": "PortalKey_Template.portals.PortalTemplate_Basic.name",
+    "FlavorText": "PortalKey_Template.portals.PortalTemplate_Basic.description",
+    "ThemeColor": "#ffffff",
+    "SplashImage": "PortalTemplate_Artwork.png",
+    "Tips": [
+      "PortalKey_Template.portals.PortalTemplate_Basic.tip1",
+      "PortalKey_Template.portals.PortalTemplate_Basic.tip2",
+      "PortalKey_Template.portals.PortalTemplate_Basic.tip3"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 60,
+    "Center": {
+      "X": 0,
+      "Z": 0,
+      "Y": 100
+    },
+    "Yaw": 90,
+    "ScanHeight": 0
+  }
+}

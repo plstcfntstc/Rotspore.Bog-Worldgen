@@ -1,0 +1,23 @@
+{
+	"$NodeId":	"FieldFunction.Assignments-9e26e3d1-b1b2-4876-adeb-72e9b3146287",
+	"Type":	"FieldFunction",
+	"ExportAs":	"Forest1_River_Trees",
+	"Delimiters":	[],
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"FieldFunction.Assignments-9e26e3d1-b1b2-4876-adeb-72e9b3146287":	{
+				"$Position":	{
+					"$x":	-1356,
+					"$y":	4649
+				},
+				"$Title":	"[ROOT] Weighted Assignments"
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}

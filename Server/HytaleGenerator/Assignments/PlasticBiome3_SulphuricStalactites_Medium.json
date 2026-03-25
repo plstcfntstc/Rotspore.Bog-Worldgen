@@ -1,0 +1,151 @@
+{
+	"$NodeId":	"Constant.Assignments-0011aa60-44da-409a-ae63-2cdca68bfc13",
+	"Type":	"Constant",
+	"ExportAs":	"PlasticBiome3_SulphuricStalactites_Medium",
+	"Prop":	{
+		"$NodeId":	"Prefab.Prop-f2d16515-f535-444b-b3c8-700368d97920",
+		"Type":	"Prefab",
+		"Skip":	false,
+		"WeightedPrefabPaths":	[{
+				"$NodeId":	"WeightedPath.Prefab.Prop-30897c96-50f3-4de1-a6bb-d7a81d5b45cb",
+				"Path":	"Sulphuric_Stalactites/Stage_002/",
+				"Weight":	5
+			}, {
+				"$NodeId":	"WeightedPath.Prefab.Prop-a2678e1c-d32b-434b-a260-7350ab79f329",
+				"Path":	"Sulphuric_Stalactites/SulphStalactite-M_004.prefab.json",
+				"Weight":	1
+			}],
+		"LegacyPath":	false,
+		"LoadEntities":	true,
+		"Directionality":	{
+			"$NodeId":	"Static.Directionality-3b64b703-2ffb-44d4-a2fc-3003d81e45d0",
+			"Type":	"Static",
+			"Rotation":	0,
+			"Pattern":	{
+				"$NodeId":	"Floor.Pattern-66943a38-bc10-444e-8d17-ce6ff2bd0b2e",
+				"Type":	"Floor",
+				"Skip":	false,
+				"Origin":	{
+					"$NodeId":	"BlockType.Pattern-54104ffa-2fb1-47a6-b0fd-3f17d024861c",
+					"Type":	"BlockType",
+					"Skip":	false,
+					"Material":	{
+						"$NodeId":	"Material-e1c4f2d9-9397-43f8-a770-eb92323bb5e7",
+						"Solid":	"",
+						"Fluid":	""
+					}
+				},
+				"Floor":	{
+					"$NodeId":	"BlockType.Pattern-a80142b5-0dc3-4f87-b492-acf6cb32216d",
+					"Type":	"BlockType",
+					"Skip":	false,
+					"Material":	{
+						"$NodeId":	"Material-597638cc-262c-4895-83a3-44aad402324b",
+						"Solid":	"Soil_Sand",
+						"Fluid":	""
+					}
+				}
+			}
+		},
+		"Scanner":	{
+			"$NodeId":	"ColumnLinear.Scanner-bb8b76cc-fbf9-4f79-ad7a-36f75c3ee11b",
+			"Type":	"ColumnLinear",
+			"Skip":	false,
+			"MaxY":	24,
+			"MinY":	14,
+			"RelativeToPosition":	false,
+			"BaseHeightName":	"Base",
+			"TopDownOrder":	false,
+			"ResultCap":	1
+		},
+		"BlockMask":	{
+			"$NodeId":	"BlockMask-689edeb3-1000-46d6-8c1b-06a46d583f64",
+			"Advanced":	[]
+		},
+		"MoldingDirection":	"NONE",
+		"MoldingChildren":	false
+	},
+	"$NodeEditorMetadata":	{
+		"$Nodes":	{
+			"Constant.Assignments-0011aa60-44da-409a-ae63-2cdca68bfc13":	{
+				"$Position":	{
+					"$x":	-244,
+					"$y":	4909
+				},
+				"$Title":	"[ROOT] Constant Assignments"
+			},
+			"Prefab.Prop-f2d16515-f535-444b-b3c8-700368d97920":	{
+				"$Position":	{
+					"$x":	639,
+					"$y":	4204
+				}
+			},
+			"WeightedPath.Prefab.Prop-30897c96-50f3-4de1-a6bb-d7a81d5b45cb":	{
+				"$Position":	{
+					"$x":	1638,
+					"$y":	3596
+				}
+			},
+			"WeightedPath.Prefab.Prop-a2678e1c-d32b-434b-a260-7350ab79f329":	{
+				"$Position":	{
+					"$x":	1638,
+					"$y":	3817
+				}
+			},
+			"Static.Directionality-3b64b703-2ffb-44d4-a2fc-3003d81e45d0":	{
+				"$Position":	{
+					"$x":	1638,
+					"$y":	4038
+				}
+			},
+			"Floor.Pattern-66943a38-bc10-444e-8d17-ce6ff2bd0b2e":	{
+				"$Position":	{
+					"$x":	2915,
+					"$y":	3927
+				}
+			},
+			"BlockType.Pattern-54104ffa-2fb1-47a6-b0fd-3f17d024861c":	{
+				"$Position":	{
+					"$x":	3808,
+					"$y":	3818
+				}
+			},
+			"Material-e1c4f2d9-9397-43f8-a770-eb92323bb5e7":	{
+				"$Position":	{
+					"$x":	4716,
+					"$y":	3818
+				}
+			},
+			"BlockType.Pattern-a80142b5-0dc3-4f87-b492-acf6cb32216d":	{
+				"$Position":	{
+					"$x":	3808,
+					"$y":	4039
+				}
+			},
+			"Material-597638cc-262c-4895-83a3-44aad402324b":	{
+				"$Position":	{
+					"$x":	4716,
+					"$y":	4039
+				}
+			},
+			"ColumnLinear.Scanner-bb8b76cc-fbf9-4f79-ad7a-36f75c3ee11b":	{
+				"$Position":	{
+					"$x":	1638,
+					"$y":	4480
+				}
+			},
+			"BlockMask-689edeb3-1000-46d6-8c1b-06a46d583f64":	{
+				"$Position":	{
+					"$x":	1638,
+					"$y":	4928
+				}
+			}
+		},
+		"$FloatingNodes":	[],
+		"$Links":	{
+		},
+		"$Groups":	[],
+		"$Comments":	[],
+		"$WorkspaceID":	"HytaleGenerator - Assignments"
+	}
+}

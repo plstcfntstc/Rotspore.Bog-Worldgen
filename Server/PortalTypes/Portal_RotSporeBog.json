@@ -1,0 +1,25 @@
+{
+  "InstanceId": "RotSporeBog",
+  "Description": {
+    "DisplayName": "PortalKey_RotSporeBog.portals.PortalRotSporeBog_Basic.name",
+    "FlavorText": "PortalKey_RotSporeBog.portals.PortalRotSporeBog_Basic.description",
+    "ThemeColor": "#ffffff",
+    "SplashImage": "PortalRotSporeBog_Artwork.png",
+    "Tips": [
+      "PortalKey_RotSporeBog.portals.PortalRotSporeBog_Basic.tip1",
+      "PortalKey_RotSporeBog.portals.PortalRotSporeBog_Basic.tip2",
+      "PortalKey_RotSporeBog.portals.PortalRotSporeBog_Basic.tip3"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 60,
+    "Center": {
+      "X": 0,
+      "Z": 0,
+      "Y": 100
+    },
+    "Yaw": 90,
+    "ScanHeight": 0
+  }
+}
+
